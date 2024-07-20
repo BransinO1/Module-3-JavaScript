@@ -1,0 +1,10 @@
+# Ignore environment variable files
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Module Submit paper
+
+CSE310_Module_Three_Submit_JavaScript.docx
+~$E310_Module_Three_Submit_JavaScript.docx
