@@ -4,7 +4,7 @@ In this project, I developed a weather forecasting web application using JavaScr
 
 The software allows users to enter a location and view a 5-day weather forecast, including temperature, weather conditions, humidity, and wind speed. The application demonstrates proficiency in handling JSON data, managing asynchronous operations, and manipulating the DOM to present information in a structured and visually appealing manner.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[https://youtu.be/JMeP9T5c9P4] Corbin Meacham JavaScript Demo Video
 
 # Development Environment
 
